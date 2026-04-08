@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Wills Excavating",
+    "phone": "+13178234241",
+    "category": "excavation contractor",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Indianapolis Excavation Pros",
+      "heroSubline": "Wills Excavating delivers dependable excavation services across Indianapolis. Site prep to demolition—we handle it all.",
+      "aboutTitle": "Excavation Expertise You Can Trust",
+      "aboutText": [
+        "Wills Excavating started with a single backhoe and a commitment to doing things the right way. For over a decade, we've built a reputation in Indianapolis for reliable excavation services, clear communication, and fair pricing.",
+        "Our approach is simple: understand the project, plan meticulously, and execute flawlessly. We value safety, precision, and exceeding expectations, regardless of project size. Indianapolis's tricky clay soil and unpredictable weather demand experience—we've got it.",
+        "We're deeply rooted in the Indianapolis community. From supporting local youth sports to partnering with area contractors, we believe in giving back to the city that's given us so much. Wills Excavating is committed to building a better Indianapolis, one project at a time."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Operators",
+          "description": "Our team knows Indianapolis soil conditions and drainage like the back of their hand."
+        },
+        {
+          "title": "Reliable Equipment",
+          "description": "We maintain a modern fleet, ensuring projects stay on schedule and within budget."
+        },
+        {
+          "title": "Safety Focused",
+          "description": "Safety isn't just a rule, it's our top priority on every job site, protecting our crew and your property."
+        },
+        {
+          "title": "Clear Communication",
+          "description": "We keep you informed every step of the way, from initial estimate to project completion."
+        }
+      ],
+      "ctaHeadline": "Start Your Excavation Project Today",
+      "ctaSubline": "Get a free, no-obligation quote for your Indianapolis-area excavation needs. Call now!"
+    },
+    "services": [
+      {
+        "slug": "site-preparation",
+        "name": "Site Preparation",
+        "shortDescription": "Laying the groundwork for successful construction projects in Indianapolis.",
+        "description": "Proper site preparation is critical for any construction project's success. In Indianapolis, with its varying soil conditions and seasonal freeze-thaw cycles, this is especially true. Wills Excavating provides comprehensive site preparation services, starting with thorough site clearing to remove trees, debris, and any existing structures. We then perform precise grading and leveling to ensure proper drainage, crucial for preventing water damage in Indianapolis's wet seasons. \n\nOur team also handles soil stabilization using techniques tailored to the specific soil composition of your site. We use compaction methods to create a solid base for foundations, driveways, or parking lots. We understand the unique challenges posed by Indianapolis's clay-rich soil and implement strategies to mitigate potential issues like settling or shifting. From small residential projects to large commercial developments, Wills Excavating ensures your site is perfectly prepared for construction, saving you time and money in the long run.",
+        "process": [
+          "Step 1: Site Assessment & Planning. We evaluate the site's soil, topography, and environmental factors.",
+          "Step 2: Clearing & Grubbing. Removing trees, vegetation, and debris to create a clean work area.",
+          "Step 3: Grading & Leveling. Achieving proper elevations and drainage to prevent water accumulation.",
+          "Step 4: Soil Stabilization. Compacting and treating the soil to provide a stable base for construction."
+        ],
+        "benefits": [
+          "Prevents costly foundation problems",
+          "Ensures proper drainage to avoid water damage",
+          "Creates a stable base for construction",
+          "Reduces the risk of settling or shifting"
+        ],
+        "faq": [
+          {
+            "question": "Why is site preparation so important in Indianapolis?",
+            "answer": "Indianapolis's clay soil expands and contracts with moisture changes, leading to potential foundation problems if the site isn't properly prepared. Our freeze-thaw cycles also add to this risk."
+          },
+          {
+            "question": "Do you handle environmental concerns during site preparation?",
+            "answer": "Yes, we adhere to all local and federal environmental regulations. We can manage erosion control, sediment control, and proper disposal of any hazardous materials discovered on-site."
+          },
+          {
+            "question": "How long does site preparation typically take?",
+            "answer": "The duration varies depending on the size and complexity of the project. However, we provide a detailed timeline during the initial consultation and keep you informed throughout the process."
+          }
+        ]
+      },
+      {
+        "slug": "foundation-excavation",
+        "name": "Foundation Excavation",
+        "shortDescription": "Expert foundation excavation services for residential and commercial buildings.",
+        "description": "A solid foundation starts with precise excavation. Wills Excavating provides expert foundation excavation services for residential and commercial projects across Indianapolis. We understand the importance of accurate measurements, proper depth, and stable soil conditions to ensure a long-lasting foundation. Our team uses advanced equipment and techniques to excavate according to your building plans, taking into account the specific soil composition and drainage requirements of your site. We carefully remove soil, level the base, and prepare the site for concrete pouring or foundation construction.\n\nWe also handle backfilling and compaction around the foundation to provide additional support and prevent water infiltration. With years of experience in Indianapolis, we're familiar with the challenges posed by our local soil conditions and implement strategies to mitigate potential problems. Whether you're building a new home in Carmel, a commercial building in Fishers, or an addition in Noblesville, Wills Excavating ensures your foundation is built on a solid, reliable base.",
+        "process": [
+          "Step 1: Layout & Marking. Accurately marking the excavation area according to the building plans.",
+          "Step 2: Excavation. Removing soil to the required depth and dimensions, ensuring proper slopes.",
+          "Step 3: Leveling & Compaction. Leveling the base of the excavation and compacting the soil for stability.",
+          "Step 4: Backfilling & Grading. Backfilling around the foundation and grading the surrounding area for drainage."
+        ],
+        "benefits": [
+          "Ensures a stable and level foundation",
+          "Prevents foundation cracks and settling",
+          "Reduces the risk of water damage",
+          "Meets all building code requirements"
+        ],
+        "faq": [
+          {
+            "question": "How deep do you typically excavate for a foundation?",
+            "answer": "The depth depends on the building plans and local building codes. We follow the engineer's specifications to ensure the foundation is properly supported."
+          },
+          {
+            "question": "What type of equipment do you use for foundation excavation?",
+            "answer": "We use a variety of excavators, backhoes, and skid steers, depending on the size and complexity of the project. All our equipment is well-maintained and operated by experienced professionals."
+          },
+          {
+            "question": "How do you handle groundwater during excavation?",
+            "answer": "We can implement dewatering techniques, such as sump pumps or well points, to remove groundwater and keep the excavation site dry."
+          }
+        ]
+      },
+      {
+        "slug": "demolition-services",
+        "name": "Demolition Services",
+        "shortDescription": "Safe and efficient demolition services for residential and commercial structures.",
+        "description": "Wills Excavating provides safe and efficient demolition services for residential and commercial structures throughout Indianapolis. We handle everything from small-scale demolitions, such as removing sheds or garages, to larger projects involving houses or commercial buildings. Our team follows strict safety protocols and uses specialized equipment to ensure the demolition process is completed safely and efficiently. We prioritize minimizing dust, noise, and disruption to the surrounding environment.\n\nWe also handle debris removal and site cleanup, leaving your property clean and ready for the next phase of development. Wills Excavating is licensed and insured to perform demolition work in Indianapolis, and we comply with all local and federal regulations. We assess each project individually to determine the best demolition method, whether it's mechanical demolition with excavators or a more controlled, selective demolition approach. Trust us to handle your demolition project with professionalism and care.",
+        "process": [
+          "Step 1: Site Assessment & Permitting. Evaluating the structure and obtaining necessary permits.",
+          "Step 2: Utility Disconnection. Disconnecting all utilities to ensure safety during demolition.",
+          "Step 3: Demolition. Carefully demolishing the structure using appropriate equipment and techniques.",
+          "Step 4: Debris Removal & Cleanup. Removing all debris and cleaning the site to prepare for new construction."
+        ],
+        "benefits": [
+          "Safe and efficient demolition process",
+          "Minimizes environmental impact",
+          "Complies with all regulations",
+          "Leaves the site clean and ready for redevelopment"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for demolition in Indianapolis?",
+            "answer": "Yes, a demolition permit is typically required. We can assist you with the permitting process."
+          },
+          {
+            "question": "How do you handle hazardous materials during demolition?",
+            "answer": "We have trained professionals who can identify and safely remove hazardous materials, such as asbestos or lead paint, according to EPA regulations."
+          },
+          {
+            "question": "What happens to the debris after demolition?",
+            "answer": "We recycle as much debris as possible and dispose of the remaining materials at licensed landfills."
+          }
+        ]
+      },
+      {
+        "slug": "land-clearing",
+        "name": "Land Clearing",
+        "shortDescription": "Clearing land for construction, development, or agricultural purposes.",
+        "description": "Wills Excavating offers comprehensive land clearing services for residential, commercial, and agricultural properties in Indianapolis and the surrounding areas. Whether you're preparing land for a new construction project, creating a pasture, or expanding your agricultural operations, we have the expertise and equipment to get the job done efficiently. Our land clearing services include tree removal, brush clearing, stump grinding, and debris removal. We use environmentally responsible methods to minimize soil erosion and protect surrounding vegetation.\n\nWe also offer grading and leveling services to prepare the land for its intended use. Wills Excavating understands the importance of proper planning and execution when it comes to land clearing. We work closely with our clients to ensure their specific needs are met and the project is completed on time and within budget. From small residential lots to large commercial properties, we have the experience and resources to handle any land clearing project.",
+        "process": [
+          "Step 1: Site Evaluation & Planning. Assessing the land and developing a clearing plan.",
+          "Step 2: Tree Removal & Brush Clearing. Removing trees, brush, and vegetation.",
+          "Step 3: Stump Grinding. Grinding stumps below ground level to prevent regrowth.",
+          "Step 4: Debris Removal & Grading. Removing debris and grading the land for its intended use."
+        ],
+        "benefits": [
+          "Prepares land for construction or development",
+          "Improves land usability",
+          "Reduces fire hazards",
+          "Enhances property value"
+        ],
+        "faq": [
+          {
+            "question": "What is the best time of year for land clearing in Indianapolis?",
+            "answer": "Land clearing can be done year-round, but the fall and winter months are often preferred due to less vegetation growth and drier ground conditions."
+          },
+          {
+            "question": "Do I need a permit for land clearing?",
+            "answer": "Permit requirements vary depending on the size and location of the project. We can help you determine if a permit is needed and assist with the application process."
+          },
+          {
+            "question": "How do you protect the environment during land clearing?",
+            "answer": "We use erosion control measures, such as silt fences and hay bales, to prevent soil erosion and protect waterways. We also minimize the use of heavy equipment to reduce soil compaction."
+          }
+        ]
+      },
+      {
+        "slug": "drainage-solutions",
+        "name": "Drainage Solutions",
+        "shortDescription": "Solving drainage problems to protect your property from water damage.",
+        "description": "Excess water can cause significant damage to your property, leading to foundation problems, soil erosion, and landscaping issues. Wills Excavating provides effective drainage solutions to protect your Indianapolis property from water damage. We offer a range of drainage services, including French drains, surface drains, and grading adjustments. Our team assesses your property's drainage issues and designs a customized solution to effectively manage water runoff.\n\nWe use high-quality materials and proven techniques to ensure long-lasting results. Wills Excavating understands the importance of proper drainage in Indianapolis, with its heavy rainfall and clay soil. We take into account the local climate and soil conditions when designing and installing drainage systems. Whether you're experiencing standing water in your yard, water infiltration into your basement, or erosion problems, we can provide a solution to keep your property dry and protected.",
+        "process": [
+          "Step 1: Site Assessment & Diagnosis. Identifying the source of the drainage problem.",
+          "Step 2: System Design. Designing a customized drainage solution.",
+          "Step 3: Installation. Installing the drainage system using high-quality materials.",
+          "Step 4: Testing & Adjustment. Testing the system to ensure it is functioning properly."
+        ],
+        "benefits": [
+          "Prevents water damage to your property",
+          "Reduces soil erosion",
+          "Eliminates standing water",
+          "Improves landscaping"
+        ],
+        "faq": [
+          {
+            "question": "What is a French drain?",
+            "answer": "A French drain is a trench filled with gravel or rock that contains a perforated pipe. It is used to redirect surface and groundwater away from a specific area."
+          },
+          {
+            "question": "How do I know if I need a drainage system?",
+            "answer": "Signs that you may need a drainage system include standing water in your yard, water infiltration into your basement, soil erosion, and foundation cracks."
+          },
+          {
+            "question": "How much does it cost to install a drainage system?",
+            "answer": "The cost depends on the complexity of the project and the type of drainage system installed. We provide free estimates to help you understand the cost involved."
+          }
+        ]
+      },
+      {
+        "slug": "utility-trenching",
+        "name": "Utility Trenching",
+        "shortDescription": "Safe and precise trenching for utility installations and repairs.",
+        "description": "Wills Excavating provides safe and precise utility trenching services for residential and commercial projects in Indianapolis. We handle trenching for a variety of utilities, including water lines, sewer lines, gas lines, and electrical conduits. Our team is experienced in working around existing utilities and follows strict safety protocols to prevent damage. We use specialized equipment to excavate trenches to the required depth and width, ensuring proper slope and compaction.\n\nWe also handle backfilling and compaction after the utility installation is complete. Wills Excavating understands the importance of accurate trenching for utility installations. We work closely with utility companies and contractors to ensure the trenches are dug according to their specifications. Whether you're installing new utilities or repairing existing ones, we can provide reliable and efficient trenching services.",
+        "process": [
+          "Step 1: Utility Location & Marking. Locating and marking existing utilities to prevent damage.",
+          "Step 2: Trench Excavation. Excavating the trench to the required depth and width.",
+          "Step 3: Utility Installation. Installing the utility lines or conduits.",
+          "Step 4: Backfilling & Compaction. Backfilling the trench and compacting the soil."
+        ],
+        "benefits": [
+          "Safe and precise trenching",
+          "Prevents damage to existing utilities",
+          "Ensures proper utility installation",
+          "Meets all safety regulations"
+        ],
+        "faq": [
+          {
+            "question": "Do you locate utilities before trenching?",
+            "answer": "Yes, we always contact the Indiana 811 service to locate and mark existing utilities before starting any excavation work. This is a critical safety measure to prevent damage to underground lines."
+          },
+          {
+            "question": "What type of equipment do you use for utility trenching?",
+            "answer": "We use a variety of excavators, trenchers, and backhoes, depending on the size and complexity of the project."
+          },
+          {
+            "question": "How deep do you typically trench for utilities?",
+            "answer": "The depth depends on the type of utility and local regulations. We follow the utility company's specifications to ensure the trench is dug to the proper depth."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Carmel",
+        "slug": "carmel-in",
+        "state": "IN",
+        "content": "Wills Excavating is proud to offer comprehensive excavation services to the residents and businesses of Carmel, Indiana. Known for its upscale developments built primarily between the 1980s and 2000s, Carmel presents unique excavation needs, from preparing building sites for new luxury homes to addressing drainage issues in established neighborhoods. We understand the specific requirements of working in this community and are committed to providing top-quality workmanship with minimal disruption. \n\nOur team is experienced in handling projects of all sizes in Carmel, from residential landscaping and foundation work to commercial site development. We are fully licensed and insured, and we adhere to all local regulations and building codes. Whether you're planning a new construction project or need assistance with an existing property, Wills Excavating is here to help.",
+        "localContext": "Carmel is characterized by its affluent residential areas and carefully planned developments, reflecting its growth in recent decades.",
+        "nearbyAreas": [
+          "Westfield",
+          "Zionsville",
+          "Indianapolis"
+        ]
+      },
+      {
+        "city": "Fishers",
+        "slug": "fishers-in",
+        "state": "IN",
+        "content": "Wills Excavating is delighted to serve the growing community of Fishers, Indiana. Characterized by its numerous planned communities developed from the 1990s through the 2020s, Fishers presents a diverse range of excavation needs, from installing utilities in new subdivisions to providing services for existing homeowners. We are dedicated to providing efficient and reliable excavation services to meet the demands of this dynamic city.\n\nWe offer a wide range of services in Fishers, including site preparation, grading, drainage solutions, and utility trenching. Our team is equipped with the latest technology and equipment to ensure that your project is completed on time and within budget. We understand the importance of minimizing disruption to your property and neighborhood, and we take great care to protect the environment.",
+        "localContext": "Fishers is a modern suburban city known for its family-friendly atmosphere and well-planned residential neighborhoods.",
+        "nearbyAreas": [
+          "Noblesville",
+          "McCordsville",
+          "Indianapolis"
+        ]
+      },
+      {
+        "city": "Noblesville",
+        "slug": "noblesville-in",
+        "state": "IN",
+        "content": "Wills Excavating is committed to providing exceptional excavation services to the residents and businesses of Noblesville, Indiana. With its historic Courthouse Square area and mix of older and newer homes, Noblesville presents a variety of excavation challenges and opportunities. We are familiar with the unique needs of this community and are dedicated to providing customized solutions to meet your specific requirements.\n\nOur services in Noblesville include foundation repair, basement waterproofing, drainage solutions, and site preparation for new construction. We understand the importance of preserving the historic character of the city, and we take great care to minimize disruption and protect the environment. Whether you're restoring an older home or building a new one, Wills Excavating is here to help.",
+        "localContext": "Noblesville blends its historic charm, particularly around the Courthouse Square, with modern suburban growth.",
+        "nearbyAreas": [
+          "Fishers",
+          "Cicero",
+          "Carmel"
+        ]
+      },
+      {
+        "city": "Indianapolis",
+        "slug": "indianapolis-in",
+        "state": "IN",
+        "content": "Wills Excavating proudly serves the entire Indianapolis metropolitan area with professional and reliable excavation services. As the largest city in Indiana, Indianapolis presents a diverse range of excavation needs, from commercial construction projects to residential landscaping improvements. We understand the unique challenges of working in a large urban environment and are committed to providing efficient and cost-effective solutions.\n\nOur team is experienced in handling projects of all sizes in Indianapolis, including site preparation, grading, utility trenching, and demolition. We are fully licensed and insured, and we adhere to all local regulations and building codes. Whether you're a homeowner, contractor, or developer, Wills Excavating is here to help you achieve your goals.",
+        "localContext": "Indianapolis is a major metropolitan center with a diverse economy and a wide range of residential and commercial properties.",
+        "nearbyAreas": [
+          "Carmel",
+          "Fishers",
+          "Greenwood"
+        ]
+      },
+      {
+        "city": "Westfield",
+        "slug": "westfield-in",
+        "state": "IN",
+        "content": "Wills Excavating is dedicated to providing top-notch excavation services to the residents and businesses of Westfield, Indiana. Known for its rapid growth and family-friendly environment, Westfield presents a variety of excavation needs, particularly in residential construction and infrastructure development. We are committed to providing reliable and efficient services to support the continued growth of this community.\n\nOur services in Westfield include site preparation for new homes, drainage solutions, and utility trenching. We understand the importance of minimizing disruption to your property and neighborhood, and we take great care to protect the environment. Whether you're building a new home or need assistance with an existing property, Wills Excavating is here to help.",
+        "localContext": "Westfield is a fast-growing suburban city known for its family-oriented community and expanding residential developments.",
+        "nearbyAreas": [
+          "Carmel",
+          "Zionsville",
+          "Sheridan"
+        ]
+      },
+      {
+        "city": "Zionsville",
+        "slug": "zionsville-in",
+        "state": "IN",
+        "content": "Wills Excavating is pleased to offer comprehensive excavation services to the residents and businesses of Zionsville, Indiana. With its charming village atmosphere and upscale residential areas, Zionsville presents unique excavation needs, from foundation repair to landscaping improvements. We understand the specific requirements of working in this community and are committed to providing top-quality workmanship.\n\nOur team is experienced in handling projects of all sizes in Zionsville, including site preparation, grading, and drainage solutions. We are fully licensed and insured, and we adhere to all local regulations and building codes. Whether you're planning a new construction project or need assistance with an existing property, Wills Excavating is here to help.",
+        "localContext": "Zionsville is known for its quaint village charm, upscale homes, and well-maintained properties.",
+        "nearbyAreas": [
+          "Carmel",
+          "Whitestown",
+          "Lebanon"
+        ]
+      },
+      {
+        "city": "Greenwood",
+        "slug": "greenwood-in",
+        "state": "IN",
+        "content": "Wills Excavating is proud to extend our professional excavation services to the Greenwood, Indiana area. Greenwood, a thriving suburban community, presents a diverse range of excavation needs, from residential projects to commercial developments. We are dedicated to providing efficient and reliable excavation services to meet the demands of this dynamic city.\n\nWe offer a wide range of services in Greenwood, including site preparation, grading, drainage solutions, and utility trenching. Our team is equipped with the latest technology and equipment to ensure that your project is completed on time and within budget. We understand the importance of minimizing disruption to your property and neighborhood, and we take great care to protect the environment.",
+        "localContext": "Greenwood is a vibrant city with a mix of residential neighborhoods, commercial areas, and community parks.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Franklin",
+          "Whiteland"
+        ]
+      },
+      {
+        "city": "McCordsville",
+        "slug": "mccordsville-in",
+        "state": "IN",
+        "content": "Wills Excavating is happy to provide excavation services to McCordsville, Indiana. McCordsville, experiencing steady growth, presents a mix of new construction and established properties. We are committed to providing reliable and efficient services to support the needs of this evolving community.\n\nOur services in McCordsville include site preparation for new homes, drainage solutions, and utility trenching. We understand the importance of minimizing disruption to your property and neighborhood, and we take great care to protect the environment. Whether you're building a new home or need assistance with an existing property, Wills Excavating is here to help.",
+        "localContext": "McCordsville is a growing town with a mix of residential developments and a strong sense of community.",
+        "nearbyAreas": [
+          "Fishers",
+          "Fortville",
+          "Indianapolis"
+        ]
+      },
+      {
+        "city": "Whitestown",
+        "slug": "whitestown-in",
+        "state": "IN",
+        "content": "Wills Excavating is delighted to serve Whitestown, Indiana, with professional excavation services. Whitestown, one of the fastest-growing communities in Indiana, presents a significant need for excavation services related to new construction and infrastructure development. We are committed to providing reliable and efficient services to support Whitestown's rapid expansion.\n\nOur team is experienced in handling projects of all sizes in Whitestown, including site preparation, grading, utility trenching. We are fully licensed and insured, and we adhere to all local regulations and building codes. Whether you're a homeowner, contractor, or developer, Wills Excavating is here to help you achieve your goals.",
+        "localContext": "Whitestown is a rapidly growing suburban town known for its new developments and family-friendly environment.",
+        "nearbyAreas": [
+          "Zionsville",
+          "Lebanon",
+          "Brownsburg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Foundation Excavation",
+        "text": "Wills Excavating did an outstanding job with the foundation excavation for our new home in Broad Ripple. They were punctual, professional, and very careful to ensure everything was done to the exact specifications. The team was knowledgeable about the soil conditions and drainage requirements, which gave us peace of mind. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John K.",
+        "rating": 4,
+        "service": "Site Preparation",
+        "text": "I hired Wills Excavating for site preparation on a commercial project near the Indianapolis Motor Speedway. They cleared the land quickly and efficiently. There were some minor delays due to weather, but they communicated proactively and kept the project moving. Overall, very satisfied with their work.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Demolition Services",
+        "text": "Wills Excavating provided demolition services for an old garage on my property. The team was professional, efficient, and took great care to protect the surrounding landscape. They cleaned up the site thoroughly and left it ready for new construction. I wouldn't hesitate to use them again.",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Drainage Solutions",
+        "text": "We had serious drainage problems in our backyard, leading to standing water and mosquito issues. Wills Excavating installed a French drain system that completely solved the problem. They were prompt, courteous, and explained everything clearly. Our yard is now usable again!",
+        "date": "2024-07-12"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Utility Trenching",
+        "text": "Wills Excavating handled the utility trenching for our new water line. They were very careful to avoid damaging any existing utilities and completed the work quickly. There was a slight miscommunication about the project timeline, but they resolved it promptly. Good service overall.",
+        "date": "2024-05-01"
+      },
+      {
+        "name": "Brian T.",
+        "rating": 5,
+        "service": "Land Clearing",
+        "text": "Wills Excavating did a fantastic job clearing our land for a new barn. They removed all the trees and brush efficiently, and they were very respectful of the environment. The site was left perfectly level and ready for construction. Highly recommended!",
+        "date": "2024-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Wills Excavating | Indianapolis IN",
+        "description": "Expert excavation services in Indianapolis. Site prep, demolition, drainage solutions. Call Wills Excavating today!"
+      },
+      "about": {
+        "title": "About Wills Excavating - Indianapolis",
+        "description": "Learn about Wills Excavating's history, values, and commitment to the Indianapolis community. Reliable excavation services."
+      },
+      "services": {
+        "title": "Excavation Services | Wills Excavating",
+        "description": "Comprehensive excavation services in Indianapolis. Site preparation, demolition, foundation work, and more."
+      },
+      "contact": {
+        "title": "Contact Wills Excavating | Indianapolis",
+        "description": "Contact Wills Excavating for a free quote on your excavation project. Serving Indianapolis, Carmel, Fishers, Noblesville."
+      },
+      "reviews": {
+        "title": "Wills Excavating Reviews | Indianapolis",
+        "description": "Read reviews from satisfied Wills Excavating customers in Indianapolis. Quality excavation services you can trust."
+      },
+      "service-areas": {
+        "title": "Service Areas | Wills Excavating",
+        "description": "Wills Excavating provides excavation services in Indianapolis, Carmel, Fishers, and Noblesville. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "site-preparation": "/images/service-site-preparation.webp",
+      "foundation-excavation": "/images/service-foundation-excavation.webp",
+      "demolition-services": "/images/service-demolition-services.webp",
+      "land-clearing": "/images/service-land-clearing.webp",
+      "drainage-solutions": "/images/service-drainage-solutions.webp",
+      "utility-trenching": "/images/service-utility-trenching.webp"
+    },
+    "servicesResponsive": {
+      "site-preparation": {
+        "src": "/images/service-site-preparation.webp",
+        "srcset": "/images/service-site-preparation-400w.webp 400w, /images/service-site-preparation-800w.webp 800w, /images/service-site-preparation-1200w.webp 1200w, /images/service-site-preparation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "foundation-excavation": {
+        "src": "/images/service-foundation-excavation.webp",
+        "srcset": "/images/service-foundation-excavation-400w.webp 400w, /images/service-foundation-excavation-800w.webp 800w, /images/service-foundation-excavation-1200w.webp 1200w, /images/service-foundation-excavation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "demolition-services": {
+        "src": "/images/service-demolition-services.webp",
+        "srcset": "/images/service-demolition-services-400w.webp 400w, /images/service-demolition-services-800w.webp 800w, /images/service-demolition-services-1200w.webp 1200w, /images/service-demolition-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "land-clearing": {
+        "src": "/images/service-land-clearing.webp",
+        "srcset": "/images/service-land-clearing-400w.webp 400w, /images/service-land-clearing-800w.webp 800w, /images/service-land-clearing-1200w.webp 1200w, /images/service-land-clearing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drainage-solutions": {
+        "src": "/images/service-drainage-solutions.webp",
+        "srcset": "/images/service-drainage-solutions-400w.webp 400w, /images/service-drainage-solutions-800w.webp 800w, /images/service-drainage-solutions-1200w.webp 1200w, /images/service-drainage-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "utility-trenching": {
+        "src": "/images/service-utility-trenching.webp",
+        "srcset": "/images/service-utility-trenching-400w.webp 400w, /images/service-utility-trenching-800w.webp 800w, /images/service-utility-trenching-1200w.webp 1200w, /images/service-utility-trenching.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
